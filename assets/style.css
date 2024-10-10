@@ -70,9 +70,6 @@ body{
     border: 4px solid var(--card-back-color);
 }
 
-
-
-
 footer{
     background-color: black;
     color: white;
@@ -86,7 +83,6 @@ footer p{
     font-size: 0.6rem;
     margin-top: 0.5rem;
 }
-
 
 @media (max-width: 560px){
 
